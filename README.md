@@ -26,7 +26,16 @@ in the terminal to see any errors in the written code
 ```sh
 cargo build
 ```
-in the terminal to build the binary file for project execution. At this point you will notice cargo.lock file
+in the terminal to build the binary code (machine code) for project execution. At this point you will notice cargo.lock file
 
 ![folder structure](2.png)
 ![commands](3.png)
+
+
+# Let's Code
+
+Now lets see some basic syntax in rust
+![complete code](code.png)
+
+Now run the code by using above cargo command in the terminal to see the output of the code.
+![output](output.png)
